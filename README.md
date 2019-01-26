@@ -1,6 +1,7 @@
 # Learning-Git
 Learning Git and exercise it
 > 新的修改
-[百度](www.baidu.com)
+[baidu](http://www.baidu.com)
 ---
 ** 分隔线 **
+`git status`
